@@ -12,7 +12,7 @@
 
 ### 1. Clone this repository
 
-### 2. Open CMD in the folder where you cloned this project and switch to ```restapi``` folder by ```cd restapi```
+### 2. Open CMD in the folder where you cloned this project and switch to ```restapi``` folder by ```cd Django-Rest-API-CRUD```
 
 ## Now install some library by running below command
 
