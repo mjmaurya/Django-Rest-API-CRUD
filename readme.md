@@ -1,6 +1,6 @@
 # Django Rest API CRUD
 
-*This is a Django Rest API Project In this Project I have Implemented RUD operation in Rest API.*
+*This is a Django Rest API Project In this Project I have Implemented CRUD operation in Rest API.*
 
 ### CRUD
    - C- Create- POST
